@@ -9,7 +9,7 @@ https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architect
 
 ![image](https://user-images.githubusercontent.com/1712635/42467632-449688c2-8367-11e8-9323-81ab50a66006.png)
 
-** ecoconweb ** 示例与 [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) 示例应用程序有关, 在这种情况下, 该应用程序侧重于基于微服务/容器的应用程序体系结构。但是, **eShopOnWeb** 在当前功能方面要简单得多, 并且专注于具有单个部署的传统 web 应用程序开发。
+**eShopOnWeb** 示例与 [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) 示例应用程序有关, 在这种情况下, 该应用程序侧重于基于微服务/容器的应用程序体系结构。但是, **eShopOnWeb** 在当前功能方面要简单得多, 并且专注于具有单个部署的传统 web 应用程序开发。
 
 本示例的目的是演示 [eBook](https://aka.ms/webappebook) 中描述的一些原则和模式。它并不意味着就是一个电子商务参考应用程序, 因此它没有实现许多功能, 这将是显而易见的, 或必不可少的一个真正的电子商务应用程序。
 

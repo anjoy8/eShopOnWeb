@@ -2,7 +2,7 @@
 
 微软官方教程，示例 Asp.Net Core 参考应用程序, 由微软提供支持, 演示单进程 (单片) 应用程序体系结构和部署模型。 
 
-此参考应用程序可以免费下载电子书: [Architecting Modern Web Applications with ASP.NET Core and Azure](https://aka.ms/webappebook), 目前更新为 * * asp. net core 2.1 * *。
+此参考应用程序可以免费下载电子书: [Architecting Modern Web Applications with ASP.NET Core and Azure](https://aka.ms/webappebook), 目前更新为 ** asp. net core 2.1 **。
 
 你也可以阅读在线网页上阅读该电子书 .Net docs地址：
 https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/
